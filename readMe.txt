@@ -1,0 +1,1 @@
+Projeto concluído para a semana de Rest API utilizando Spring, com aulas ministradas pelo professor Thiago Faria, da AlgaWorks.
